@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import React from "react";
 import searchicon  from './search.svg';
 import MovieCard from "./MovieCard";
-import App from './App.css';
+
 
 //a791fd01
 
@@ -83,7 +83,7 @@ function Ap(){
      );
     }
 
-    export default App;
+    export default Ap;
 
 
 
