@@ -22,7 +22,7 @@ const url='http://www.omdbapi.com?apikey=a791fd01';
 
 
 
-function App(){
+function Ap(){
 
 
     const [movies, setMovies]=useState([]);
