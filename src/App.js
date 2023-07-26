@@ -10,7 +10,7 @@ import MovieCard from "./MovieCard";
 
 
 
-const url='http://www.omdbapi.com?apikey=a791fd01';
+const url='https://www.omdbapi.com?apikey=a791fd01';
 
 
 
